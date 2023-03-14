@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Meme-Generator/static/css/main.a864489f.css",
+    "main.js": "/Meme-Generator/static/js/main.122c516a.js",
+    "static/media/fuego.jpg": "/Meme-Generator/static/media/fuego.08ef46648be3d2e2ff76.jpg",
+    "static/media/matrix.jpg": "/Meme-Generator/static/media/matrix.64505c2d97b6a3329e68.jpg",
+    "static/media/futurama.jpg": "/Meme-Generator/static/media/futurama.755bf10237f772cb9033.jpg",
+    "static/media/smart.jpg": "/Meme-Generator/static/media/smart.1cd72e2866df61f6a45e.jpg",
+    "static/media/philosoraptor.jpg": "/Meme-Generator/static/media/philosoraptor.9bb9d02433e04224646f.jpg",
+    "static/media/history.jpg": "/Meme-Generator/static/media/history.0c8d2847caa7b209ac00.jpg",
+    "index.html": "/Meme-Generator/index.html",
+    "main.a864489f.css.map": "/Meme-Generator/static/css/main.a864489f.css.map",
+    "main.122c516a.js.map": "/Meme-Generator/static/js/main.122c516a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a864489f.css",
+    "static/js/main.122c516a.js"
+  ]
+}
